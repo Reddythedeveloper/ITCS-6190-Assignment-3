@@ -1,4 +1,3 @@
-Here is your **clean, updated README** with correct structure, fixed terminology, and **clear screenshot placeholders after each step**. You can copy-paste directly.
 
 ---
 
